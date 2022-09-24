@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TuThienTon/react-basic-demo.git/static/css/main.e6c13ad2.css",
+    "main.js": "/TuThienTon/react-basic-demo.git/static/js/main.5023420a.js",
+    "static/js/787.94fa39cd.chunk.js": "/TuThienTon/react-basic-demo.git/static/js/787.94fa39cd.chunk.js",
+    "index.html": "/TuThienTon/react-basic-demo.git/index.html",
+    "main.e6c13ad2.css.map": "/TuThienTon/react-basic-demo.git/static/css/main.e6c13ad2.css.map",
+    "main.5023420a.js.map": "/TuThienTon/react-basic-demo.git/static/js/main.5023420a.js.map",
+    "787.94fa39cd.chunk.js.map": "/TuThienTon/react-basic-demo.git/static/js/787.94fa39cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5023420a.js"
+  ]
+}
